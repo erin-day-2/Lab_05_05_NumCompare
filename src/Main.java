@@ -4,7 +4,7 @@ public class Main
     public static void main(String[] args)
     {
 	int numInput1 = 10;
-    int numInput2 = 10;
+    int numInput2 = 20;
     boolean numbersEqual = false;
 
 
